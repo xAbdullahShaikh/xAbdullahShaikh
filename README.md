@@ -1,3 +1,11 @@
+> whoami
+Abdullah Shaikh
+
+> cat profile.txt
+Cyber Security Student - FAST NUCES
+Location: Asia/Pakistan/Karachi
+Status: available for work
+
 # 💫 About Me:
 A Cyber Security Engineer <br><br>Hello and Assalam-o-Alaikum, From a young age, I have been deeply passionate about coding and<br>hacking. Over the years, I have realized the profound synergy between these two disciplines. I firmly<br>believe that a developer with expertise in hacking can craft the ultimate product - one that not only<br>meets user needs but also prioritizes security at its core. My vision extends beyond merely utilizing<br>existing cybersecurity tools; I aspire to innovate and create cutting-edge tools that enhance<br>cybersecurity measures. I am committed to wholeheartedly supporting the objectives and vision of the<br>organization or company I join.
 
