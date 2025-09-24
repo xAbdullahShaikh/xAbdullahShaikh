@@ -4,7 +4,7 @@
 Abdullah Shaikh
 
 > cat profile.txt
-Cyber Security Student - FAST NUCES
+Cyber Security Graduate - FAST NUCES
 Location: Asia/Pakistan/Karachi  
 Status: Open to opportunities 🚀
 ```
@@ -12,7 +12,7 @@ Status: Open to opportunities 🚀
 ![Profile Banner](https://github.com/user-attachments/assets/eb7507e9-852e-4962-a040-beba9e967111)
 
 ## 🔐 About Me
-**A Cyber Security Engineer | Ethical Hacker | Full Stack Developer**
+**A Security Engineer | Ethical Hacker | Backend Developer**
 
 Hello and Assalam-o-Alaikum! 👋
 
