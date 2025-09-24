@@ -1,4 +1,4 @@
-# 👨‍💻 whoami
+# Who am I ?
 ```bash
 > whoami
 Abdullah Shaikh
@@ -11,7 +11,7 @@ Status: Open to opportunities 🚀
 
 ![Profile Banner](https://github.com/user-attachments/assets/eb7507e9-852e-4962-a040-beba9e967111)
 
-## 🔐 About Me
+##  About Me
 **A Security Engineer | Ethical Hacker | Backend Developer**
 
 Hello and Assalam-o-Alaikum! 👋
