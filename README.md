@@ -1,117 +1,168 @@
-# 👨‍💻 whoami
+# Abdullah Shaikh
+**DevSecOps Engineer | Cybersecurity Specialist | Full Stack Developer**
+
 ```bash
 > whoami
 Abdullah Shaikh
 
 > cat profile.txt
-Cyber Security Graduate - FAST NUCES
-Location: Asia/Pakistan/Karachi  
-Status: Open to opportunities 🚀
+Cyber Security Student - FAST NUCES
+Location: Karachi, Pakistan
+Status: DevSecOps Engineer at Intelik
+GPA: 3.2/4.0 | Dean's Honor List (2x)
 ```
 
-![Profile Banner](https://github.com/user-attachments/assets/eb7507e9-852e-4962-a040-beba9e967111)
+---
 
-## 🔐 About Me
-**A Security Engineer | Ethical Hacker | Backend Developer**
+## 🎯 Professional Summary
 
-Hello and Assalam-o-Alaikum! 👋
+Cybersecurity engineering student with hands-on experience in DevSecOps, penetration testing, and secure application development. Currently working as a DevSecOps & Backend Developer at Intelik, with a proven track record of building secure blockchain-based platforms and conducting comprehensive security assessments. Strong background in vulnerability research, malware analysis, and implementing security-first development practices.
 
-From a young age, I have been deeply passionate about **coding** and **hacking**. Over the years, I have realized the profound synergy between these two disciplines. I firmly believe that a developer with expertise in hacking can craft the ultimate product - one that not only meets user needs but also prioritizes security at its core.
-
-### 🎯 My Vision
-- 🛡️ **Security-First Development**: Building applications with security baked in from day one
-- 🔧 **Tool Innovation**: Creating cutting-edge cybersecurity tools that enhance security measures
-- 🌐 **Ethical Hacking**: Using offensive security knowledge to build better defenses
-- 🚀 **Full Stack Security**: Combining web development with penetration testing expertise
-
-My vision extends beyond merely utilizing existing cybersecurity tools; I aspire to innovate and create solutions that bridge the gap between development and security. I am committed to wholeheartedly supporting the objectives and vision of any organization I join.
+**Key Expertise Areas:**
+- DevSecOps Pipeline Design & Implementation
+- Web Application Penetration Testing  
+- Blockchain Security & Smart Contract Development
+- Secure Full Stack Development
+- Vulnerability Assessment & Threat Intelligence
 
 ---
 
-## 🛠️ Technical Arsenal
+## 💼 Professional Experience
 
-### 🔐 Cybersecurity & Hacking
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+### **DevSecOps & Backend Developer** | *Intelik (Immutable Intelligence)* `Jun 2025 – Present`
+- Designing secure blockchain-based lending platforms with focus on data integrity and access control
+- Developing robust Node.js backend APIs following security best practices
+- Implementing CI/CD pipelines integrated with comprehensive security testing tools
+- Managing Kubernetes container orchestration for secure microservice deployment
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+### **Junior Web Application Penetration Tester** | *408 Solutions* `May 2025 – Jun 2025`
+- Conducted comprehensive web application security assessments using Burp Suite Professional
+- Identified critical vulnerabilities including injection flaws, authentication bypasses, and session management issues
+- Performed reconnaissance and service enumeration using industry-standard tools
+- Delivered detailed vulnerability assessment reports following industry best practices
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### 🗄️ Databases & Infrastructure
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📊 Data Science & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+### **Security Analyst** | *ThincsCorp (Remote)* `Aug 2024 – Dec 2024`
+- Conducted threat intelligence research and in-depth malware analysis
+- Performed comprehensive vulnerability assessments with detailed documentation
+- Researched emerging attack vectors and threat actor TTPs
 
 ---
 
-## 🎯 Current Focus Areas
-- 🔍 **Web Application Security Testing** - Finding and fixing vulnerabilities in modern web apps
-- 🌐 **Full Stack Development** - Building secure, scalable applications with React & Node.js
-- 🤖 **AI/ML for Cybersecurity** - Leveraging machine learning for threat detection
-- ⛓️ **Blockchain Security** - Smart contract auditing and DeFi protocol security
-- 📚 **Continuous Learning** - Staying updated with the latest security trends and attack vectors
+## 🎓 Education & Certifications
+
+**B.S. Cyber Security** | *FAST National University* `Expected June 2025`
+- Current GPA: 3.2/4.0
+- Dean's Honor List (2x)
+- **Relevant Coursework:** Information Security, DevSecOps, AI for Cyber Security, Digital Forensics, Ethical Hacking, Network Security, Web AppSec, Cloud Security, Vulnerability Assessment, Secure Software Design
+
+**Certifications:**
+- Jr Penetration Tester (TryHackMe)
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
+
+### **UBL - ILOS (Intelligent Loan Origination System)** `Ongoing`
+*Technologies: Next.js, Node.js, PostgreSQL, Hyperledger Fabric, Kubernetes*
+- Built enterprise-grade full-stack lending platform supporting multiple loan categories
+- Integrated Hyperledger Fabric for immutable audit trails and fraud prevention
+- Implemented DevSecOps practices with automated security testing and compliance checks
+- Designing on-premises Kubernetes deployment for scalable microservice architecture
+
+### **SnatchLock - AI-Driven Crime Detection System** `Final Year Project`
+*Technologies: Ethereum Blockchain, YOLOv8, Next.js, VADclip*
+- Developed real-time crime detection using YOLOv8 and VADclip for suspicious activity identification
+- Implemented blockchain-based evidence storage on Ethereum for tamper-proof records
+- Created automated alert system for immediate police department notification
+- Built comprehensive DevSecOps pipeline using CircleCI with multiple security scanning tools
+
+### **Secure Blockchain Marketplace & Chatbot**
+*Technologies: Multichain, GPT-3.5, Cryptographic Hashing*
+- Developed secure marketplace with blockchain-based user credential and transaction management
+- Built authenticated chatbot with client-server architecture and blockchain integration
+- Ensured data security through cryptographic hashing and blockchain publication
+
+---
+
+## 🛠️ Technical Skills
+
+### **Security & Testing**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+
+**Tools:** Nmap, Hydra, Bandit, Nikto, SonarQube, Splunk, Wazuh, ELK Stack, Autopsy, FTK Imager, SQLMap, Trivy, Snyk, Checkov
+
+### **Development & DevOps**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+**Languages:** C/C++, Python, JavaScript/TypeScript, SQL, Solidity  
+**Frameworks:** React, Next.js, Node.js  
+**DevOps:** Docker, Kubernetes, CircleCI, Git/GitHub, AWS Cloud  
+**Databases:** PostgreSQL, MySQL, Firebase
+
+### **Blockchain & Emerging Tech**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
+
+**Platforms:** Ethereum, Hyperledger Fabric, Multichain
+
+---
+
+## 📊 Research & Academic Contributions
+
+### **Academic Roles**
+- **Student Lab Assistant - Computer Networks** | *FAST NUCES* `Jan 2025 – Present`
+- **Student Lab Assistant - Information Security** | *FAST NUCES* `Aug 2022 – Dec 2024`
+
+### **Security Research**
+- Conducted comprehensive vulnerability assessment on FBI website as part of security research project
+- Developed educational phishing demonstrations to highlight social engineering vulnerabilities
+- Research focus on AI-driven cybersecurity solutions and blockchain security implementations
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xAbdullahShaikh&theme=radical&hide_border=true)](https://github.com/xAbdullahShaikh)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xAbdullahShaikh&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xAbdullahShaikh&layout=compact&theme=radical&hide_border=true)](https://github.com/xAbdullahShaikh)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xAbdullahShaikh&layout=compact&theme=default&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Professional Interests
 
-**Looking for collaboration on:**
-- 🔐 Cybersecurity projects and research
-- 🌐 Secure web application development
-- 🔍 Penetration testing and vulnerability assessments
-- 🛠️ Security tool development
+**Current Focus:**
+- Enterprise DevSecOps pipeline optimization
+- Blockchain security and smart contract auditing
+- AI/ML applications in cybersecurity
+- Cloud security architecture design
 
-**Available for:**
-- Full-time opportunities in Cybersecurity/Development
-- Freelance security assessments
-- Open source contributions
-- Knowledge sharing and mentoring
+**Open to:**
+- Cybersecurity consulting opportunities
+- DevSecOps engineering roles
+- Security research collaborations
+- Open source security project contributions
 
 ---
 
-<div align="center">
+## 📫 Get In Touch
 
-### "In a world of increasing digital threats, I code to protect and protect to code." 🛡️
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahshaikh085@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-shaikh-9x9x9x9x9)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/xAbdullahShaikh)
 
-*Building tomorrow's secure digital infrastructure, one commit at a time.*
+---
 
-</div>
+*"Bridging the gap between secure development and operational excellence through innovative DevSecOps practices."*
